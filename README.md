@@ -1,7 +1,7 @@
 <a name="about-me"></a>
 ## 👋 Hi, I’m Guilherme Santos
 
-I’m a **1st-year Master's in Cybersecurity** student at **Universidade de Aveiro**, passionate about **software development**, **cybersecurity**, and **machine learning**, always seeking to build innovative solutions to real‑world challenges.
+I’m a **2nd-year Master's in Cybersecurity** student at **Universidade de Aveiro**, passionate about **software development**, **cybersecurity**, and **machine learning**, always seeking to build innovative solutions to real‑world challenges.
 
 ---
 <a name="table-of-contents"></a>

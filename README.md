@@ -8,11 +8,10 @@ I’m a **2nd-year Master's in Cybersecurity** student at **Universidade de Avei
 ## 📋 Table of Contents
 
 1. [About me](#about-me)
-2. [Skills](#skills)  
-3. [Projects](#projects)  
-4. [Achievements](#achievements)  
-5. [Education](#education)  
-6. [Contact](#contact)  
+2. [Skills](#skills)   
+3. [Achievements](#achievements)  
+4. [Education](#education)  
+5. [Contact](#contact)  
 
 ---
 <a name="skills"></a>
@@ -28,32 +27,6 @@ I’m a **2nd-year Master's in Cybersecurity** student at **Universidade de Avei
 
 ![Top Languages](https://ghstats.dev/api/langs?username=guisantos91&max_langs=6)
 
----
-<a name="projects"></a>
-## 🚀 Projects
-### FixAI  
-> _Final project of the Bachelor's degree in Informatic Engineering, Universidade of Aveiro_  
-- **Description:** AI-driven platform engineered to optimise urban issue detection and resolution within smart city frameworks.  
-- **Tech:** FastAPI • Kubernetes • Cassandra • Kafka  
-- 🔗 [GitHub Repo](https://github.com/guisantos91/PI-FixAI)
-
----
-
-### SmartTLS  
-> _Winning solution @ Aveiro Tech City Hackathon 2024_  
-- **Description:** Multi-agent reinforcement learning system optimizing traffic lights in Aveiro for smoother flow and reduced waiting times.  
-- **Tech:** Python • TensorFlow • SUMO • Docker  
-- 🔗 [GitHub Repo](https://github.com/guisantos91/SmartTLS)
-
----
-
-### SIO‑Project  
-> _Secured Documents Repository (Info & Organizational Security)_  
-- **Description:** Encrypted storage solution with role-based access and audit logging.  
-- **Tech:** Python • Flask • MongoDB • cryptography  
-- 🔗 [GitHub Repo](https://github.com/guisantos91/SIO-Project)
-
----
 <a name="achievements"></a>
 ## 🏆 Achievements
 

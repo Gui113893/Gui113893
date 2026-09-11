@@ -26,7 +26,7 @@ I’m a **2nd-year Master's in Cybersecurity** student at **Universidade de Avei
 
 ### 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guisantos91&layout=compact)
+![Top Languages](https://ghstats.dev/api/langs?username=guisantos91&max_langs=6)
 
 ---
 <a name="projects"></a>
